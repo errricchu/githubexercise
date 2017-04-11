@@ -1,0 +1,44 @@
+body {
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+}
+
+.nav {
+	background-color: red;
+	list-style: none;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	opacity: 50%;
+
+}
+
+.nav li {
+	display: inline-block;
+	padding-right: 100px;
+	padding-left: 100px;
+	text-align: center;
+}
+
+.nav a:hover {
+	color: black;
+}
+
+
+.nav a {
+	color: white;
+	text-decoration: none;
+}
+
+button {
+	border-style: none;
+	background-color: green;
+	text-color: white;
+}
+
+
+
+
+
+
+
